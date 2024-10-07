@@ -40,5 +40,9 @@ pbcopy < ~/.ssh/id_ed25519.pub
 
 ## copy all the string by selecting
 cat ~/.ssh/id_ed25519.pub
+```
 
+## delete old project and add git project again
+```sh
+rm -rf version-control
 ```
