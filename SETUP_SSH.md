@@ -1,3 +1,4 @@
+```sh
 # Setup SSH
 
 ls -al ~/.ssh
@@ -20,3 +21,4 @@ https://github.com/settings/keys
 
 ## copy all the string by selecting
 cat ~/.ssh/id_ed25519.pub
+```
